@@ -6,6 +6,7 @@ import { useEffect } from 'react'
 import Header from './Header'
 import Footer from './Footer'
 function Cart() {
+    console.log("hello github");
     const cart = useSelector((state) => state.cart)
     const dispatch = useDispatch()
     useEffect(() => {
