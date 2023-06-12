@@ -1,0 +1,22 @@
+.test {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+label {
+    display: block;
+    width: 100%;
+}
+.test1 {
+    width: 500px;
+    background-color: rgb(32, 225, 36);
+    padding: 40px;
+}
+.input {
+    width: 100%;
+    padding: 6px ;
+}
+body {
+    background-color: black;
+}

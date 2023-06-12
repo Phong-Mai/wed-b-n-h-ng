@@ -1,0 +1,631 @@
+{
+    "products" :{
+        "phone" :[
+            {
+                "id" : "1",
+                "price" : "11790000",
+                "name" : "iphone",
+                "img" : "https://cdn-v2.didongviet.vn/files/products/2023/4/9/1/1683605592281_thumb_iphone_11_didongviet.jpg",
+                "img1": [
+                    {"image" : "https://cdn-v2.didongviet.vn/files/products/2023/4/9/1/1683605592281_thumb_iphone_11_didongviet.jpg"},
+                    {"image" : "https://cdn-v2.didongviet.vn/files/media/catalog/product/i/p/iphone-11-128gb-mau-trang-white_1.jpg"},
+                    {"image" : "https://cdn-v2.didongviet.vn/files/media/catalog/product/i/p/iphone-11-128gb-camera-chup-hinh.jpg"},
+                    {"image" : "https://cdn-v2.didongviet.vn/files/media/catalog/product/i/p/iphone-11-128gb-hinh-anh.jpg"}
+                    
+                ],
+                "title" :"iPhone 11 128GB Chính Hãng",
+                "view" : "586",
+                "description" : "iPhone 11 128GB Chính hãng (VN/A) chính thống giá RẺ HƠN CÁC LOẠI RẺ chỉ có tại Di Động Việt - Đại lý uỷ quyền chính thức của Apple tại Việt Nam. Với thiết kế thời thượng và các tính năng hiện đại, chiếc smartphone này sẽ mang đến cho bạn trải nghiệm đầy cảm xúc với khả năng sáng tạo vô tận từ 2 camera 12MP, kết hợp với hiệu năng mạnh mẽ từ chipset Apple A13 Bionic sản xuất trên tiến trình 7nm. Bên cạnh đó, với dung lượng pin lớn cho phép người dùng trải nghiệm dài lâu. Đặt ngay để có trải nghiệm mua sắm Hơn cả Chính Hãng."
+            },
+            {
+                "id" : "2",
+                "price" : "24490000",
+                "name" : "iphone",
+                "img" : "https://cdn-v2.didongviet.vn/files/media/catalog/product/i/p/iphone-13-pro-128gb-didongviet_1.jpg",
+                 "img1": [
+                    {"image" : "https://cdn-v2.didongviet.vn/files/media/catalog/product/i/p/iphone-13-pro-128gb-didongviet_1.jpg"},
+                    {"image" : "https://cdn-v2.didongviet.vn/files/media/catalog/product/i/p/iphone-13-pro-128gb-mau-vang-didongviet.jpg"},
+                    {"image" : "https://cdn-v2.didongviet.vn/files/media/catalog/product/i/p/iphone-13-pro-128gb-mau-xam-den-didongviet.jpg"},
+                    {"image" : "https://cdn-v2.didongviet.vn/files/media/catalog/product/i/p/iphone-13-pro-128gb-mau-bac-didongviet.jpg"}
+                    
+                ],
+                "title" :"IPhone 14 Pro 128GB ",
+                "view" : "586",
+                "description" : "iPhone 14 Pro 128GB Chính hãng (VN/A) hiện đã có mặt tại Di Động Việt - Đại lý uỷ quyền chính thức của Apple tại Việt Nam. Với thiết kế thời thượng và các tính năng hiện đại, chiếc smartphone này sẽ mang đến cho bạn trải nghiệm đầy cảm xúc với khả năng sáng tạo bứt phá với bộ 3 camera gồm: 48MP và 2 camera 12MP, kết hợp với hiệu năng mạnh mẽ từ chipset Apple A16 Bionic 6 nhân. Bên cạnh đó, với dung lượng pin lớn cho phép người dùng trải nghiệm dài lâu. Đặt ngay để có trải nghiệm mua sắm Hơn cả Chính Hãng."
+            },
+            {
+                "id" : "3",
+                "price" : "15900000",
+                "name" : "iphone",
+                "img" : "https://cdn-v2.didongviet.vn/files/media/catalog/product/i/p/iphone-13-128gb-didongviet_1.jpg",
+                "img1": [
+                    {"image" : "https://cdn-v2.didongviet.vn/files/media/catalog/product/i/p/iphone-13-128gb-didongviet_1.jpg"},
+                    {"image" : "https://cdn-v2.didongviet.vn/files/media/catalog/product/i/p/iphone-13-aar-xanh-la-didongviet_1.jpeg"},
+                    {"image" : "https://cdn-v2.didongviet.vn/files/media/catalog/product/i/p/iphone-13-blue-didongviet.jpg"},
+                    {"image" : "https://cdn-v2.didongviet.vn/files/media/catalog/product/i/p/iphone-13-red-didongviet.jpg"}
+                    
+                ],
+                "title" :"IPhone 13 128GB Chính Hãng",
+                "view" : "586",
+                "description" : "iPhone 13 128GB Chính hãng (VN/A) chính thống giá RẺ HƠN CÁC LOẠI RẺ chỉ có tại Di Động Việt - Đại lý uỷ quyền chính thức của Apple tại Việt Nam. Với thiết kế thời thượng và các tính năng hiện đại, chiếc smartphone này sẽ mang đến cho bạn trải nghiệm đầy cảm xúc với khả năng sáng tạo vô tận từ 2 camera 12MP, kết hợp với hiệu năng mạnh mẽ từ chipset Apple A15 Bionic sản xuất trên tiến trình 5nm. Bên cạnh đó, với dung lượng pin lớn cho phép người dùng trải nghiệm dài lâu. Đặt ngay để có trải nghiệm mua sắm Hơn cả Chính Hãng."
+            },
+            {
+                "id" : "4",
+                "price" : "18490000",
+                "name" : "iphone",
+                "img" : "https://cdn-v2.didongviet.vn/files/media/catalog/product/i/p/iphone-14-128gb-didongviet_1.jpg",
+                "img1": [
+                    {"image" : "https://cdn-v2.didongviet.vn/files/media/catalog/product/i/p/iphone-14-128gb-didongviet_1.jpg"},
+                    {"image" : "https://cdn-v2.didongviet.vn/files/media/catalog/product/i/p/iphone-14-mau-moi-didongviet.jpg"},
+                    {"image" : "https://cdn-v2.didongviet.vn/files/media/catalog/product/i/p/iphone-14-128gb-mau-den-didongviet.jpg"},
+                    {"image" : "https://cdn-v2.didongviet.vn/files/media/catalog/product/i/p/iphone-14-128gb-mau-do-didongviet.jpg"}
+                    
+                ],
+                "title" :"IPhone 14 128GB Chính Hãng",
+                "view" : "586",
+                "description" : "iPhone 14 128GB Chính hãng (VN/A) chính thống giá RẺ HƠN CÁC LOẠI RẺ chỉ có tại Di Động Việt - Đại lý uỷ quyền chính thức của Apple tại Việt Nam. Với thiết kế thời thượng và các tính năng hiện đại, chiếc smartphone này sẽ mang đến cho bạn trải nghiệm đầy cảm xúc với khả năng sáng tạo vô tận từ 2 camera 12MP, kết hợp với hiệu năng mạnh mẽ từ chipset Apple A15 Bionic 6 nhân. Bên cạnh đó, với dung lượng pin lớn cho phép người dùng trải nghiệm dài lâu. Đặt ngay để có trải nghiệm mua sắm Hơn cả Chính Hãng."
+            },
+            {
+                "id" : "5",
+                "price" : "11000000",
+                "name" : "iphone",
+                "img" : "https://cdn-v2.didongviet.vn/files/products/2023/4/9/1/1683605592281_thumb_iphone_11_didongviet.jpg",
+                "img1": [
+                    {"image" : "https://cdn-v2.didongviet.vn/files/products/2023/4/9/1/1683605592281_thumb_iphone_11_didongviet.jpg"},
+                    {"image" : "https://cdn-v2.didongviet.vn/files/media/catalog/product/i/p/iphone-11-128gb-mau-trang-white_1.jpg"},
+                    {"image" : "https://cdn-v2.didongviet.vn/files/media/catalog/product/i/p/iphone-11-128gb-camera-chup-hinh.jpg"},
+                    {"image" : "https://cdn-v2.didongviet.vn/files/media/catalog/product/i/p/iphone-11-128gb-hinh-anh.jpg"}
+                    
+                ],
+                "title" :"IPhone 11 128GB Chính Hãng",
+                "view" : "586",
+                "description" : "iPhone 11 128GB Chính hãng (VN/A) chính thống giá RẺ HƠN CÁC LOẠI RẺ chỉ có tại Di Động Việt - Đại lý uỷ quyền chính thức của Apple tại Việt Nam. Với thiết kế thời thượng và các tính năng hiện đại, chiếc smartphone này sẽ mang đến cho bạn trải nghiệm đầy cảm xúc với khả năng sáng tạo vô tận từ 2 camera 12MP, kết hợp với hiệu năng mạnh mẽ từ chipset Apple A13 Bionic sản xuất trên tiến trình 7nm. Bên cạnh đó, với dung lượng pin lớn cho phép người dùng trải nghiệm dài lâu. Đặt ngay để có trải nghiệm mua sắm Hơn cả Chính Hãng."
+            },
+            {
+                "id" : "6",
+                "price" : "9990000",
+                "name" : "iphone",
+                "img" : "https://cdn-v2.didongviet.vn/files/products/2023/4/9/1/1683605592281_thumb_iphone_11_didongviet.jpg",
+                "img1": [
+                    {"image" : "https://cdn-v2.didongviet.vn/files/products/2023/4/9/1/1683605592281_thumb_iphone_11_didongviet.jpg"},
+                    {"image" : "https://cdn-v2.didongviet.vn/files/media/catalog/product/i/p/iphone-11-128gb-mau-trang-white_1.jpg"},
+                    {"image" : "https://cdn-v2.didongviet.vn/files/media/catalog/product/i/p/iphone-11-128gb-camera-chup-hinh.jpg"},
+                    {"image" : "https://cdn-v2.didongviet.vn/files/media/catalog/product/i/p/iphone-11-128gb-hinh-anh.jpg"}
+                    
+                ],
+                "title" :"IPhone 11 64GB Chính Hãng",
+                "view" : "586",
+                "description" : "iPhone 11 64GB Chính hãng (VN/A) chính thống giá RẺ HƠN CÁC LOẠI RẺ chỉ có tại Di Động Việt - Đại lý uỷ quyền chính thức của Apple tại Việt Nam. Với thiết kế thời thượng và các tính năng hiện đại, chiếc smartphone này sẽ mang đến cho bạn trải nghiệm đầy cảm xúc với khả năng sáng tạo vô tận từ 2 camera 12MP, kết hợp với hiệu năng mạnh mẽ từ chipset Apple A13 Bionic sản xuất trên tiến trình 7nm. Bên cạnh đó, với dung lượng pin lớn cho phép người dùng trải nghiệm dài lâu. Đặt ngay để có trải nghiệm mua sắm Hơn cả Chính Hãng."
+            },
+            {
+                "id" : "7",
+                "price" : "15990000",
+                "name" : "iphone",
+                "img" : "https://cdn-v2.didongviet.vn/files/media/catalog/product/i/p/iphone-13-128gb-didongviet_1.jpg",
+                "img1": [
+                    {"image" : "https://cdn-v2.didongviet.vn/files/media/catalog/product/i/p/iphone-13-128gb-didongviet_1.jpg"},
+                    {"image" : "https://cdn-v2.didongviet.vn/files/media/catalog/product/i/p/iphone-13-aar-xanh-la-didongviet_1.jpeg"},
+                    {"image" : "https://cdn-v2.didongviet.vn/files/media/catalog/product/i/p/iphone-13-blue-didongviet.jpg"},
+                    {"image" : "https://cdn-v2.didongviet.vn/files/media/catalog/product/i/p/iphone-13-red-didongviet.jpg"}
+                ],
+                "title" :"IPhone 13 128GB Chính Hãng",
+                "view" : "586",
+                "description" : "iPhone 13 128GB Chính hãng (VN/A) chính thống giá RẺ HƠN CÁC LOẠI RẺ chỉ có tại Di Động Việt - Đại lý uỷ quyền chính thức của Apple tại Việt Nam. Với thiết kế thời thượng và các tính năng hiện đại, chiếc smartphone này sẽ mang đến cho bạn trải nghiệm đầy cảm xúc với khả năng sáng tạo vô tận từ 2 camera 12MP, kết hợp với hiệu năng mạnh mẽ từ chipset Apple A15 Bionic sản xuất trên tiến trình 5nm. Bên cạnh đó, với dung lượng pin lớn cho phép người dùng trải nghiệm dài lâu. Đặt ngay để có trải nghiệm mua sắm Hơn cả Chính Hãng."
+            },
+            {
+                "id" : "8",
+                "price" : "33590000",
+                "name" : "iphone",
+                "img" : "https://cdn-v2.didongviet.vn/files/media/catalog/product/i/p/iphone-13-pro-max-128gb-didongviet_2_1.jpg",
+                "img1": [
+                    {"image" : "https://cdn-v2.didongviet.vn/files/media/catalog/product/i/p/iphone-13-pro-max-128gb-didongviet_2_1.jpg"},
+                    {"image" : "https://cdn-v2.didongviet.vn/files/media/catalog/product/i/p/iphone-13-pro-max-128gb-mau-bac-didongviet_2_1.jpg"},
+                    {"image" : "https://cdn-v2.didongviet.vn/files/media/catalog/product/i/p/iphone-13-pro-max-128gb-mau-tim-didongviet_2_1.jpg"},
+                    {"image" : "https://cdn-v2.didongviet.vn/files/media/catalog/product/i/p/iphone-13-pro-max-128gb-mau-vang-didongviet_2_1.jpg"}
+                    
+                ],
+                "title" :"IPhone 14 Pro Max 512GB ",
+                "view" : "586",
+                "description" : "iPhone 14 Pro Max 512GB Chính hãng (VN/A) chính thống giá RẺ HƠN CÁC LOẠI RẺ chỉ có tại Di Động Việt - Đại lý uỷ quyền chính thức của Apple tại Việt Nam. Với thiết kế thời thượng và các tính năng hiện đại, chiếc smartphone này sẽ mang đến cho bạn trải nghiệm đầy cảm xúc với khả năng sáng tạo bứt phá với bộ 3 camera gồm: 48MP và 2 camera 12MP, kết hợp với hiệu năng mạnh mẽ từ chipset Apple A16 Bionic 6 nhân. Bên cạnh đó, với dung lượng pin lớn cho phép người dùng trải nghiệm dài lâu. Đặt ngay để có trải nghiệm mua sắm Hơn cả Chính Hãng."
+            },
+            {
+                "id" : "9",
+                "price" : "26790000",
+                "name" : "iphone",
+                "img" : "https://cdn-v2.didongviet.vn/files/media/catalog/product/i/p/iphone-13-pro-256gb-didongviet_1.jpg",
+                "img1": [
+                    {"image" : "https://cdn-v2.didongviet.vn/files/media/catalog/product/i/p/iphone-13-pro-256gb-didongviet_1.jpg"},
+                    {"image" : "https://cdn-v2.didongviet.vn/files/media/catalog/product/i/p/iphone-13-pro-256gb-mau-vang-didongviet.jpg"},
+                    {"image" : "https://cdn-v2.didongviet.vn/files/media/catalog/product/i/p/iphone-13-pro-256gb-mau-tim-didongviet.jpg"},
+                    {"image" : "https://cdn-v2.didongviet.vn/files/media/catalog/product/i/p/iphone-13-pro-256gb-mau-xam-den-didongviet.jpg"}
+                    
+                ],
+                "title" :"IPhone 14 Pro 256GB Chính Hãng",
+                "view" : "586",
+                "description" : "iPhone 14 Pro Max 256GB Chính hãng (VN/A) chính thống giá RẺ HƠN CÁC LOẠI RẺ chỉ có tại Di Động Việt - Đại lý uỷ quyền chính thức của Apple tại Việt Nam. Với thiết kế thời thượng và các tính năng hiện đại, chiếc smartphone này sẽ mang đến cho bạn trải nghiệm đầy cảm xúc với khả năng sáng tạo bứt phá với bộ 3 camera gồm: 48MP và 2 camera 12MP, kết hợp với hiệu năng mạnh mẽ từ chipset Apple A16 Bionic 6 nhân. Bên cạnh đó, với dung lượng pin lớn cho phép người dùng trải nghiệm dài lâu. Đặt ngay để có trải nghiệm mua sắm Hơn cả Chính Hãng."
+            },
+            {
+                "id" : "10",
+                "price" : "21490000",
+                "name" : "iphone",
+                "img" : "https://cdn-v2.didongviet.vn/files/media/catalog/product/i/p/iphone-14-plus-128gb-didongviet.jpg",
+                "img1": [
+                    {"image" : "https://cdn-v2.didongviet.vn/files/media/catalog/product/i/p/iphone-14-plus-128gb-didongviet.jpg"},
+                    {"image" : "https://cdn-v2.didongviet.vn/files/media/catalog/product/i/p/iphone-14-mau-moi-didongviet_6.jpg"},
+                    {"image" : "https://cdn-v2.didongviet.vn/files/media/catalog/product/i/p/iphone-14-plus-128gb-mau-den-didongviet.jpg"},
+                    {"image" : "https://cdn-v2.didongviet.vn/files/media/catalog/product/i/p/iphone-14-plus-128gb-mau-do-didongviet.jpg"}
+                    
+                ],
+                "title" :"IPhone 14 Plus 128GB Chính Hãng",
+                "view" : "586",
+                "description" : "iPhone 14 Plus 128GB Chính hãng (VN/A) chính thống giá RẺ HƠN CÁC LOẠI RẺ chỉ có tại Di Động Việt - Đại lý uỷ quyền chính thức của Apple tại Việt Nam. Với thiết kế thời thượng và các tính năng hiện đại, chiếc smartphone này sẽ mang đến cho bạn trải nghiệm đầy cảm xúc với khả năng sáng tạo vô tận từ 2 camera 12MP, kết hợp với hiệu năng mạnh mẽ từ chipset Apple A15 Bionic 6 nhân. Bên cạnh đó, với dung lượng pin lớn cho phép người dùng trải nghiệm dài lâu. Đặt mua iPhone 14 tại Di Động Việt để có thể sở hữu chiếc máy sớm nhất với nhiều ưu đãi và khuyến mãi đi kèm."
+            },
+            {
+                "id" : "11",
+                "price" : "8190000",
+                "name" : "samsung",
+                "img" : "https://cdn-v2.didongviet.vn/files/media/catalog/product/g/a/galaxy-s20-fe-256gb-didongviet_2.jpg",
+                "img1": [
+                    {"image" : "https://cdn-v2.didongviet.vn/files/media/catalog/product/g/a/galaxy-s20-fe-256gb-didongviet_2.jpg"},
+                    {"image" : "https://cdn-v2.didongviet.vn/files/media/catalog/product/m/u/mua-galaxy-s20-fe-didongviet.jpg"},
+                    {"image" : "https://cdn-v2.didongviet.vn/files/media/catalog/product/t/h/thiet-ke-galaxy-s20-fe-didongviet.jpg"},
+                    {"image" : "https://cdn-v2.didongviet.vn/files/media/catalog/product/m/a/man-hinh-galaxy-s20-fe-didongviet.jpg"}
+                ],
+                "title" :"Samsung Galaxy S20 FE 256GB",
+                "view" : "586",
+                "description" : "Samsung Galaxy S20 FE 256GB là phiên bản đặc biệt dành cho những người hâm mộ Samsung. Máy sở hữu thiết kế sang trọng, nhiều màu sắc trẻ trung. Màn hình rộng 6.5 inches, hiệu năng mạnh mẽ bởi chip Snapdragon 865. Máy còn được trang bị bộ 3 camera với nhiều tính năng, đáp ứng tốt nhu cầu người dùng."
+            },
+            {
+                "id" : "12",
+                "price" : "7240000",
+                "name" : "samsung",
+                "img" : "https://cdn-v2.didongviet.vn/files/media/catalog/product/s/a/samsung-galaxy-a53-5g-128gb-didongviet.jpg",
+                "img1": [
+                    {"image" : "https://cdn-v2.didongviet.vn/files/media/catalog/product/s/a/samsung-galaxy-a53-5g-128gb-didongviet.jpg"}          
+                ],
+                "title" :"Samsung Galaxy A53 128GB Chính Hãng",
+                "view" : "586",
+                "description" : "Samsung Galaxy A54 128GB sở hữu thiết kế trẻ trung, hiện đại. Chiếc smartphone này được trang bị màn hình Super AMOLED rộng 6.4 inch với độ phân giải 1080 x 2400 pixel mang đến khả năng hiển thị rõ ràng, sắc nét. Bên cạnh đó, nó còn được trang bị cụm camera lên đến 50MP cho phép sáng tạo bứt phá. Ngoài ra, phiên bản này cũng mang đến hiệu năng ổn định nhờ được trang bị chip Exynos 1380 (5nm)."
+            },
+            {
+                "id" : "13",
+                "price" : "16900000",
+                "name" : "samsung",
+                "img" : "https://cdn-v2.didongviet.vn/files/media/catalog/product/s/a/samsung-galaxy-s23-mau-den-1-didongviet.jpg",
+                "img1": [
+                    {"image" : "https://cdn-v2.didongviet.vn/files/media/catalog/product/s/a/samsung-galaxy-s23-mau-den-1-didongviet.jpg"},
+                    {"image" : "https://cdn-v2.didongviet.vn/files/media/catalog/product/s/a/samsung-galaxy-s23-mau-kem-1-didongviet.jpg"},
+                    {"image" : "https://cdn-v2.didongviet.vn/files/media/catalog/product/s/a/samsung-galaxy-s23-mau-tim-1-didongviet.jpg"},
+                    {"image" : "https://cdn-v2.didongviet.vn/files/media/catalog/product/s/a/samsung-galaxy-s23-mau-xanh-1-didongviet.jpg"}
+                    
+                ],
+                "title" :"Samsung Galaxy S23 5GB 256GB",
+                "view" : "586",
+                "description" : "Samsung Galaxy S23 5G 256GB sở hữu thiết kế hiện đại, cao cấp với màn hình rộng 6.1 inch, cùng công nghệ màn hình Dynamic AMOLED 2X, 120Hz. Máy được trang bị hiệu năng mạnh mẽ với Snapdragon 8 Gen 2, hệ điều hành Android 12 giao diện One UI 4.0. Đồng thời camera 50MP cũng là điểm nhấn đặc biệt trên máy."
+            },
+            {
+                "id" : "14",
+                "price" : "21180000",
+                "name" : "samsung",
+                "img" : "https://cdn-v2.didongviet.vn/files/media/catalog/product/s/a/samsung-galaxy-s23-mau-tim-1-didongviet_8.jpg",
+                "img1": [
+                    {"image" : "https://cdn-v2.didongviet.vn/files/media/catalog/product/s/a/samsung-galaxy-s23-mau-tim-1-didongviet_8.jpg"},
+                    {"image" : "https://cdn-v2.didongviet.vn/files/media/catalog/product/s/a/samsung-galaxy-s23-mau-kem-1-didongviet_8.jpg"},
+                    {"image" : "https://cdn-v2.didongviet.vn/files/media/catalog/product/s/a/samsung-galaxy-s23-mau-den-1-didongviet_8.jpg"},
+                    {"image" : "https://cdn-v2.didongviet.vn/files/media/catalog/product/s/a/samsung-galaxy-s23-mau-xanh-1-didongviet_8.jpg"}
+                    
+                ],
+                "title" :"Samsung Galaxy S23 Plus 5GB 512GB",
+                "view" : "586",
+                "description" : "Samsung Galaxy S23+ 5G 256GB sở hữu thiết kế hiện đại, cao cấp với màn hình rộng 6.6 inch, cùng công nghệ màn hình Dynamic AMOLED 2X, 120Hz. Máy được trang bị hiệu năng mạnh mẽ với Snapdragon 8 Gen 2, hệ điều hành Android 12 giao diện One UI 4.0. Đồng thời camera 50MP cũng là điểm nhấn đặc biệt trên máy."
+            },
+            {
+                "id" : "15",
+                "price" : "23590000",
+                "name" : "samsung",
+                "img" : "https://cdn-v2.didongviet.vn/files/media/catalog/product/s/a/samsung-galaxy-s23-ultra-5g-mau-xanh.png",
+                "img1": [
+                    {"image" : "https://cdn-v2.didongviet.vn/files/media/catalog/product/s/a/samsung-galaxy-s23-ultra-5g-mau-xanh.png"},
+                    {"image" : "https://cdn-v2.didongviet.vn/files/media/catalog/product/s/a/samsung-galaxy-s23-ultra-5g-didongviet.png"},
+                    {"image" : "https://cdn-v2.didongviet.vn/files/media/catalog/product/s/a/samsung-galaxy-s23-ultra-5g-mau-den-didongviet.png"},
+                    {"image" : "https://cdn-v2.didongviet.vn/files/media/catalog/product/s/a/samsung-galaxy-s23-ultra-5g-mau-trang-didongviet.png"}
+                    
+                ],
+                "title" :"Samsung Galaxy S23 Ultra 5G 256GB ",
+                "view" : "586",
+                "description" : "Galaxy S23 Ultra 5G 256GB sở hữu thiết kế cao cấp với màn hình 6.8 inch độ phân giải 3088 x 1440 pixels, tấm nền Dynamic AMOLED 2X tần số quét 120Hz, cấu hình mạnh mẽ với vi xử lý Snapdragon 8 Gen 2. Camera chính 200MP mang lại khả năng chụp ảnh đỉnh cao hỗ trợ nhiều chế độ chụp ảnh khác nhau."
+            },
+            {
+                "id" : "40",
+                "price" : "20890000",
+                "name" : "samsung",
+                "img" : "https://cdn-v2.didongviet.vn/files/media/catalog/product/s/a/samsung-galaxy-s22-ultra-256gb-didongviet_4.jpg",
+                "img1": [
+                    {"image" : "https://cdn-v2.didongviet.vn/files/media/catalog/product/s/a/samsung-galaxy-s22-ultra-256gb-didongviet_4.jpg"},
+                    {"image" : "https://cdn-v2.didongviet.vn/files/media/catalog/product/k/h/kha-nang-chup-hinh-samsung-galaxy-s22-ultra-256gb-didongviet_3.jpg"},
+                    {"image" : "https://cdn-v2.didongviet.vn/files/media/catalog/product/k/h/kha-nang-hien-thi-samsung-galaxy-s22-ultra-256gb-didongviet_3.jpg"},
+                    {"image" : "https://cdn-v2.didongviet.vn/files/media/catalog/product/s/a/samsung-galaxy-s22-ultra-256gb-didongviet_1_2.jpg"}
+                    
+                ],
+                "title" :"Samsung Galaxy S22 Ultra 5G 256GB ",
+                "view" : "586",
+                "description" : "Samsung Galaxy S22 Ultra 128GB sở hữu thiết kế cao cấp với màn hình 6.8 inch độ phân giải QuadHD+ (2K), tấm nền Dynamic AMOLED tần số quét 120Hz, cấu hình mạnh mẽ với vi xử lý Snapdragon 8 Gen 1, giao diện OneUI 4.0 trên nền tảng Android 12 mới nhất. Bộ 4 camera với camera chính 108MP mang lại khả năng chụp ảnh đỉnh cao hỗ trợ nhiều filter, chế độ chụp ảnh khác nhau."
+            },
+            {
+                "id" : "41",
+                "price" : "15990000",
+                "name" : "samsung",
+                "img" : "https://cdn-v2.didongviet.vn/files/media/catalog/product/s/a/samsung-galaxy-z-flip4-5g-256gb-didongviet_1_1_1.jpg",
+                "img1": [
+                    {"image" : "https://cdn-v2.didongviet.vn/files/media/catalog/product/s/a/samsung-galaxy-z-flip4-5g-256gb-didongviet_1_1_1.jpg"},
+                    {"image" : "https://cdn-v2.didongviet.vn/files/media/catalog/product/s/a/samsung-galaxy-z-flip4-5g-256gb-didongviet_1_2.jpg"},
+                    {"image" : "https://cdn-v2.didongviet.vn/files/media/catalog/product/s/a/samsung-galaxy-z-flip4-5g-256gb-mau-xam-didongviet_2.jpg"},
+                    {"image" : "https://cdn-v2.didongviet.vn/files/media/catalog/product/s/a/samsung-galaxy-z-flip4-5g-256gb-mau-xanh-didongviet_1_1.jpg"}
+                    
+                ],
+                "title" :"Samsung Galaxy Z Flip4 5G 256GB ",
+                "view" : "586",
+                "description" : "Samsung Galaxy Z Flip4 256GB 5G Chính Hãng có thiết kế mới lạ sang trọng, mang nhiều nâng cấp với màn hình lớn, độ phân giải Full HD+. Máy chạy trên hệ điều hành Android 12 cùng với nhiều nâng cấp đáng tiền. Dung lượng pin sử dụng cả ngày."
+            },
+            {
+                "id" : "16",
+                "price" : "7990000",
+                "name" : "xiaomi",
+                "img" : "https://cdn-v2.didongviet.vn/files/products/2023/4/10/1/1683729350731_xiaomi_redmi_note_12_pro_4g_blue_didongviet_thumb_min.jpg",
+                "img1": [
+                    {"image" : "https://cdn-v2.didongviet.vn/files/products/2023/4/10/1/1683729350731_xiaomi_redmi_note_12_pro_4g_blue_didongviet_thumb_min.jpg"},
+                    {"image" : "https://cdn-v2.didongviet.vn/files/products/2023/4/10/1/1683730200631_xiaomi_redmi_note_12_pro_4g_blue1_didongviet_thumb_min.jpg"},
+                    {"image" : "https://cdn-v2.didongviet.vn/files/products/2023/4/10/1/1683729171087_xiaomi_redmi_note_12_pro_4g_black_didongviet_thumb_min.jpg"},
+                    {"image" : "https://cdn-v2.didongviet.vn/files/products/2023/4/10/1/1683730452691_xiaomi_redmi_note_12_pro_4g_white_didongviet_thumb_min.jpg"}
+                    
+                ],
+                "title" :"Xiaomi Redmi Note 12 Pro 4G ",
+                "view" : "586",
+                "description" : "Xiaomi Redmi Note 12 Pro 256GB Chính Hãng là chiếc điện thoại tầm trung của Xiaomi. Máy có màn hình 6.67 inches đi kèm cấu hình ổn định nhờ chipset Snapdragon 732G. Ngoài ra, máy còn có cụm 4 camera với cảm biến chính lên đến 108MP và viên pin khủng đảm bảo khiến người dùng hài lòng."
+            },
+            {
+                "id" : "17",
+                "price" : "6690000",
+                "name" : "xiaomi",
+                "img" : "https://cdn-v2.didongviet.vn/files/products/2023/4/10/1/1683732400888_xiaomi_redmi_note_12s_green_didongviet_thumb_min.jpg",
+                "img1": [
+                    {"image" : "https://cdn-v2.didongviet.vn/files/products/2023/4/10/1/1683732400888_xiaomi_redmi_note_12s_green_didongviet_thumb_min.jpg"},
+                    {"image" : "https://cdn-v2.didongviet.vn/files/products/2023/4/10/1/1683732355459_xiaomi_redmi_note_12s_ble_didongviet_thumb_min.jpg"},
+                    {"image" : "https://cdn-v2.didongviet.vn/files/products/2023/4/10/1/1683731824075_xiaomi_redmi_note_12s_black_didongviet_thumb_min.jpg"},
+                    {"image" : "https://cdn-v2.didongviet.vn/files/products/2023/4/10/1/1683732400888_xiaomi_redmi_note_12s_green_didongviet_thumb_min.jpg"}
+                    
+                ],
+                "title" :"Xiaomi Redmi Note 12S 256GB ",
+                "view" : "586",
+                "description" : "Xiaomi Redmi Note 12S 256GB Chính Hãng là chiếc điện thoại tầm trung mới của Xiaomi. Điện thoại có màn hình 6.43 inches cùng cấu hình ổn định với chipset Helio G96. Ngoài ra, máy còn có cụm 3 camera với cảm biến 108MP, phù hợp với mọi đối tượng người dùng."
+            },
+            {
+                "id" : "18",
+                "price" : "3690000",
+                "name" : "oppo",
+                "img" : "https://cdn-v2.didongviet.vn/files/media/catalog/product/o/p/oppo-a57-128gb-didongviet.jpg",
+                "img1": [
+                    {"image" : "https://cdn-v2.didongviet.vn/files/media/catalog/product/o/p/oppo-a57-128gb-didongviet.jpg"}
+                ],
+                "title" :"OPPO A57 128GB Chính Hãng",
+                "view" : "586",
+                "description" : "OPPO A57 128GB sở hữu thiết kế hiện đại, tinh tế và vô cùng mỏng với độ dày chỉ 8.4mm. Máy được trang bị màn hình IPS 6.56, cấu hình mạnh mẽ với vi xử lý MediaTek Helio G35. OPPO A57 còn được tich hợp hệ thống camera kép chụp hình sắc nét, hỗ trợ nhiều chế độ chụp ảnh khác nhau."
+
+            },
+            {
+                "id" : "19",
+                "price" : "8990000",
+                "name" : "oppo",
+                "img" : "https://cdn-v2.didongviet.vn/files/media/catalog/product/o/p/oppo-reno8-t-5g-didongviet_2.png",
+                "img1": [
+                    {"image" : "https://cdn-v2.didongviet.vn/files/media/catalog/product/o/p/oppo-reno8-t-5g-didongviet_2.png"},
+                    {"image" : "https://cdn-v2.didongviet.vn/files/media/catalog/product/o/p/oppo-reno8-t-5g-mau-den-didongviet.png"}  
+                ],
+                "title" :"OPPO Reno8 T 5G 128GB Chính Hãng",
+                "view" : "586",
+                "description" : "OPPO Reno8 Z 5G 256GB sở hữu một thiết kế trẻ trung, sang trọng. Được trang bị màn AMOLED hình rộng 6.43 inches, có độ phân giải Full HD. Bên cạnh đó, chiếc smartphone này cũng có cấu hình hoạt động mạnh mẽ nhờ được trang bị chip Qualcomm Snapdragon 695 5G. Dung lượng pin 4500mAh cho phép trải nghiệm bền bỉ, không gián đoạn."
+            },
+            {
+                "id" : "20",
+                "price" : "19590000",
+                "name" : "oppo",
+                "img" : "https://cdn-v2.didongviet.vn/files/media/catalog/product/o/p/oppo-find-n2-flip-256gb-1-didongviet.jpg",
+                "img1": [
+                    {"image" : "https://cdn-v2.didongviet.vn/files/media/catalog/product/o/p/oppo-find-n2-flip-256gb-1-didongviet.jpg"},
+                    {"image" : "https://cdn-v2.didongviet.vn/files/media/catalog/product/o/p/oppo-find-n2-flip-256gb-den-didongviet.jpg"}
+                ],
+                "title" :"OPPO Find N2 Flip 256GB Chính Hãng",
+                "view" : "586",
+                "description" : "OPPO Find N2 Flip 256GB sở hữu thiết kế trẻ trung, hiện đại. Chiếc smartphone này được trang bị màn hình AMOLED rộng 6.8 inch với độ phân giải Full HD mang đến những trải nghiệm mượt mà. Bên cạnh đó, nó còn có khả năng hoạt động mạnh mẽ cho người dùng thoải mái sử dụng các tác vụ từ cơ bản đến nâng cao."
+            }
+        ],
+        "laptop" : [
+            {
+                "id" : "21",
+                "price" : "58590000",
+                "name" : "macbook",
+                "img" : "https://cdn-v2.didongviet.vn/files/media/catalog/product/m/a/macbook-pro-14-inch-m2-pro-2023-1tb-didongviet_2x.png",
+                "img1": [
+                    {"image" : "https://cdn-v2.didongviet.vn/files/media/catalog/product/m/a/macbook-pro-14-inch-m2-pro-2023-1tb-didongviet_2x.png"},
+                    {"image" : "https://cdn-v2.didongviet.vn/files/media/catalog/product/m/a/macbook-pro-14-inch-m2-pro-2023-1tb-didongviet.jpg"}
+                ],
+                "title" : "MacBook Pro 14 inch M2 Pro 2023 ",
+                "view" : "586",
+                "description" : "MacBook Pro 14 inch M2 Pro 2023 | 16GB/1TB là máy mới 100%, hiện đã có mặt tại Di Động Việt - Đại lý uỷ quyền chính thức của Apple tại Việt Nam. Thiết bị có kiểu dáng mỏng nhẹ, màn hình lớn 14.2 inch, trang bị tấm nền Liquid Retina XDR. MacBook Pro có cấu hình hoạt động mượt mà, đa tác vụ nhanh nhạy với chipset siêu khủng M2 Pro. ROM 16GB và bộ nhớ lưu trữ rộng rãi 1TB. Thời lượng pin 18 giờ."
+            },
+            {
+                "id" : "22",
+                "price" : "27390000",
+                "name" : "macbook",
+                "img" : "https://cdn-v2.didongviet.vn/files/products/2023/4/15/1/1684140297189_thumb_macbook_pro_m2_didongviet.jpg",
+                "img1": [
+                    {"image" : "https://cdn-v2.didongviet.vn/files/products/2023/4/15/1/1684140297189_thumb_macbook_pro_m2_didongviet.jpg"},
+                    {"image" : "https://cdn-v2.didongviet.vn/files/media/catalog/product/t/h/thumb-1-macbook-pro-13-inch-2022-m2-256gb-diddongviet.jpg"},
+                    {"image" : "https://cdn-v2.didongviet.vn/files/media/catalog/product/t/h/thumb-2-macbook-pro-13-inch-2022-m2-256gb-diddongviet.jpg"},
+                    {"image" : "https://cdn-v2.didongviet.vn/files/media/catalog/product/t/h/thumb-3-macbook-pro-13-inch-2022-m2-256gb-diddongviet.jpg"}
+                    
+                ],
+                "title" : "MacBook Air M2 13-inch 2023 ",
+                "view" : "586",
+                "description" : "Macbook Air M2 256GB Chính hãng chính thống giá RẺ HƠN CÁC LOẠI RẺ chỉ có tại Di Động Việt - Đại lý uỷ quyền chính thức của Apple tại Việt Nam. Thiết bị có kiểu dáng mỏng nhẹ, màn hình lớn 13.6 inch, trang bị tấm nền Liquid Retina IPS LCD. MacBook Air có cấu hình hoạt động mượt mà, đa tác vụ nhanh nhạy với chipset siêu khủng M2. Camera trước có độ phân giải lần lượt là 12MP + 10MP + TOF 3D LiDAR. ROM 8GB và bộ nhớ lưu trữ rộng rãi 256GB. Đặt ngay để có trải nghiệm mua sắm Hơn cả Chính Hãng."
+            },
+            {
+                "id" : "23",
+                "price" : "59290000",
+                "name" : "macbook",
+                "img" : "https://cdn-v2.didongviet.vn/files/media/catalog/product/m/a/macbook-pro-16-inch-m2-pro-2023-512gb-didongviet_2x.png",
+                "img1": [
+                    {"image" : "https://cdn-v2.didongviet.vn/files/media/catalog/product/m/a/macbook-pro-16-inch-m2-pro-2023-512gb-didongviet_2x.png"},
+                    {"image" : "https://cdn-v2.didongviet.vn/files/media/catalog/product/m/a/macbook-pro-16-inch-m2-pro-2023-512gb-mau-xam-didongviet_8.jpg"},
+                    {"image" : "https://cdn-v2.didongviet.vn/files/media/catalog/product/m/a/macbook-pro-16-inch-m2-pro-2023-512gb-mau-bac-didongviet_1_1.jpg"},
+                    {"image" : "https://cdn-v2.didongviet.vn/files/media/catalog/product/m/a/macbook-pro-16-inch-m2-pro-2023-512gb-mau-bac-didongviet_2_1.jpg"}
+                    
+                ],
+                "title" : "MacBook Pro M2 Pro 16 inch 2023",
+                "view" : "586",
+                "description" : "MacBook Pro 16 inch M2 Pro 512GB Chính hãng chính thống giá RẺ HƠN CÁC LOẠI RẺ chỉ có tại Di Động Việt - Đại lý uỷ quyền chính thức của Apple tại Việt Nam. Thiết bị có kiểu dáng mỏng nhẹ, màn hình lớn 16.2 inch, trang bị tấm nền Liquid Retina XDR. MacBook Pro có cấu hình hoạt động mượt mà, đa tác vụ nhanh nhạy với chipset siêu khủng M2 Pro. ROM 16GB và bộ nhớ lưu trữ rộng rãi 512GB. Thời lượng pin 22 giờ. Đặt ngay để có trải nghiệm mua sắm Hơn cả Chính Hãng."
+            },
+            {
+                "id" : "24",
+                "price" : "47490000",
+                "name" : "macbook",
+                "img" : "https://cdn-v2.didongviet.vn/files/media/catalog/product/m/a/macbook-pro-14-inch-m2-pro-2023-512gb-didongviet_2x.png",
+                "img1": [
+                    {"image" : "https://cdn-v2.didongviet.vn/files/media/catalog/product/m/a/macbook-pro-14-inch-m2-pro-2023-512gb-didongviet_2x.png"},
+                    {"image" : "https://cdn-v2.didongviet.vn/files/media/catalog/product/m/a/macbook-pro-14-inch-m2-pro-2023-512gb-1-didongviet.jpg"}
+                ],
+                "title" : "MacBook Pro M2 Pro 14-inch 2023 ",
+                "view" : "586",
+                "description" : "MacBook Pro 14 inch M2 Pro 2023 | 16GB/512GB là máy mới 100%, hiện đã có mặt tại Di Động Việt - Đại lý uỷ quyền chính thức của Apple tại Việt Nam. Thiết bị có kiểu dáng mỏng nhẹ, màn hình lớn 14.2 inch, trang bị tấm nền Liquid Retina XDR. MacBook Pro có cấu hình hoạt động mượt mà, đa tác vụ nhanh nhạy với chipset siêu khủng M2 Pro. ROM 16GB và bộ nhớ lưu trữ rộng rãi 512GB. Thời lượng pin 18 giờ."
+            }
+       
+        ],
+        "tablet" : [
+            {
+                "id" : "26",
+                "price" : "6890000",
+                "name" : "tablet",
+                "img" : "https://cdn-v2.didongviet.vn/files/media/catalog/product/i/p/ipad-gen-9-64gb-wifi.jpg",
+                "img1": [
+                    {"image" : "https://cdn-v2.didongviet.vn/files/media/catalog/product/i/p/ipad-gen-9-64gb-wifi.jpg"},
+                    {"image" : "https://cdn-v2.didongviet.vn/files/media/catalog/product/i/p/ipad-gen-9-64gb-wifi-pos-1-didongviet-.jpg"},
+                    {"image" : "https://cdn-v2.didongviet.vn/files/media/catalog/product/i/p/ipad-gen-9-64gb-wifi-pos-2-didongviet-.jpg"},
+                    {"image" : "https://cdn-v2.didongviet.vn/files/media/catalog/product/i/p/ipad-gen-9-64gb-wifi-pos-3-didongviet-.jpg"}
+                    
+                ],
+                "title" : "Ipad Gen 9 2021 | Wifi 64GB Chính Hãng ",
+                "view" : "586",
+                "description" : "iPad Gen 9 64GB Wifi Chính hãng chính thống giá RẺ HƠN CÁC LOẠI RẺ chỉ có tại Di Động Việt - Đại lý uỷ quyền chính thức của Apple tại Việt Nam. Tablet được trang bị con chip A13 Bionic, thiết kế mỏng nhẹ và màn hình 10.2 inch đem đến một hiển thị nội dung rộng lớn và tích hợp Apple Pencil và camera 12MP được trang bị thêm tính năng Center Stage tuyệt vời. Đặt ngay để có trải nghiệm mua sắm Hơn cả Chính Hãng."
+            },
+            {
+                "id" : "27",
+                "price" : "10690000",
+                "name" : "tablet",
+                "img" : "https://cdn-v2.didongviet.vn/files/media/catalog/product/i/p/ipad-2022-64gb-wifi-didongviet.jpg",
+                "img1": [
+                    {"image" : "https://cdn-v2.didongviet.vn/files/media/catalog/product/i/p/ipad-2022-64gb-wifi-didongviet.jpg"},
+                    {"image" : "https://cdn-v2.didongviet.vn/files/media/catalog/product/i/p/ipad-2022-64gb-wifi-mau-bac-didongviet.jpg"},
+                    {"image" : "https://cdn-v2.didongviet.vn/files/media/catalog/product/i/p/ipad-2022-64gb-wifi-mau-hong-didongviet.jpg"},
+                    {"image" : "https://cdn-v2.didongviet.vn/files/media/catalog/product/i/p/ipad-2022-64gb-wifi-mau-vang-didongviet.jpg"}
+                    
+                ],
+                "title" : "Ipad 10.9-inch 2022 | 64 GB Chính Hãng",
+                "view" : "586",
+                "description" : "iPad Gen 10 256GB Wifi Chính hãng chính thống giá RẺ HƠN CÁC LOẠI RẺ chỉ có tại Di Động Việt - Đại lý uỷ quyền chính thức của Apple tại Việt Nam. Tablet được trang bị con chip thế hệ mới với hiệu năng hoạt động mạnh mẽ, thiết kế mỏng nhẹ và màn hình 10.9 inch đem đến một hiển thị nội dung rộng lớn và tích hợp Apple Pencil và camera được trang bị thêm tính năng Center Stage tuyệt vời. Đặt ngay để có trải nghiệm mua sắm Hơn cả Chính Hãng."
+            },
+            {
+                "id" : "29",
+                "price" : "5990000",
+                "name" : "tablet",
+                "img" : "https://cdn-v2.didongviet.vn/files/media/catalog/product/g/a/galaxy-tab-a8-2022-bhdt-didongviet.jpeg",
+                "img1": [
+                    {"image" : "https://cdn-v2.didongviet.vn/files/media/catalog/product/g/a/galaxy-tab-a8-2022-bhdt-didongviet.jpeg"}   
+                ],
+                "title" : "Samsung Galaxy Tab A8 Chính Hãng",
+                "view" : "586",
+                "description" : "Galaxy Tab A8 2022 BHĐT là phiên bản chính hãng Samsung Việt Nam, nguyên seal máy, nhận bảo hành 12 tháng và hưởng đầy đủ các ưu đãi theo chính sách ủy quyền của Samsung, đồng thời nhận nhiều ưu đãi, khuyến mãi hấp dẫn tại Di Động Việt. Samsung Galaxy Tab A8 2022 BHĐT sở hữu màn hình lớn lên đến 10.4 inch, camera sau 8MP, dung lượng RAM 4GB và bộ nhớ trong 64GB vô cùng rộng rãi. Máy sở hữu thiết kế đẹp trải nghiệm lại mượt mà ấn tượng là sự lựa chọn của đa số người dùng."
+            },
+            {
+                "id" : "30",
+                "price" : "14990000",
+                "name" : "tablet",
+                "img" : "https://cdn-v2.didongviet.vn/files/media/catalog/product/s/a/samsung-galaxy-tab-s8-128gb-didongviet.jpg",
+                "img1": [
+                    {"image" : "https://cdn-v2.didongviet.vn/files/media/catalog/product/s/a/samsung-galaxy-tab-s8-128gb-didongviet.jpg"}      
+                ],
+                "title" : "Samsung Galaxy Tab S8 Chính Hãng",
+                "view" : "586",
+                "description" : "Samsung Galaxy Tab S8 bán tại Di Động Việt là phiên bản chính hãng Samsung Việt Nam, nguyên seal máy, nhận bảo hành 12 tháng và hưởng đầy đủ các ưu đãi theo chính sách ủy quyền của Samsung, đồng thời nhận nhiều ưu đãi, khuyến mãi hấp dẫn tại Di Động Việt.             Galaxy Tab S8 là thiết bị tablet có thiết kế tinh tế. Máy tính bảng sở hữu màn hình rộng 11 inch cùng dung lượng pin 8000 mAh đi kèm công nghệ sạc nhanh hiện đại, camera sau 13MP, phù hợp với người dùng thích sản phẩm màn hình lớn trải nghiệm chơi game, lướt web được tối ưu hóa."
+            }
+        ],
+        "earphone" : [
+            {
+                "id" : "31",
+                "price" : "1290000",
+                "name" : "soundpeats",
+                "img" : "https://cdn-v2.didongviet.vn/files/products/2023/3/17/1/1681721215210_tai_nghe_bluetooth_soundpeats_mini_pro_hs_didongviet.png",
+                "img1": [
+                    {"image" : "https://cdn-v2.didongviet.vn/files/products/2023/3/17/1/1681721215210_tai_nghe_bluetooth_soundpeats_mini_pro_hs_didongviet.png"}
+                ],
+                "title" :"Tai nghe không dây Soundpeats Mini",
+                "view" : "586",
+                "description" : "Tai nghe không dây Soundpeats Mini mua tại Di Động Việt được đảm bảo là hàng chính hãng 100%. Bảo hành 12 tháng. Đồng thời, khi quý khách mua hàng sẽ hưởng nhiều ưu đãi, khuyến mãi hấp dẫn khác.               Tai nghe không dây Soundpeats Mini có thiết kế in-ear, mang đến công nghệ âm thanh chất lượng cao như tính năng khử tiếng ồn Speech AI, màng loa được tinh chỉnh truyền phát âm thanh sắc nét. Kết nối ổn định lên đến 10m và trang bị khả năng điều khiển chuyên nghiệp."
+            },
+            {
+                "id" : "32",
+                "price" : "490000",
+                "name" : "soundpeats",
+                "img" : "https://cdn-v2.didongviet.vn/files/media/catalog/product/t/a/tai-nghe-khong-day-soundpeats-mac-didongviet.jpg",
+                "img1": [
+                    {"image" : "https://cdn-v2.didongviet.vn/files/media/catalog/product/t/a/tai-nghe-khong-day-soundpeats-mac-didongviet.jpg"},
+                    {"image" : "https://cdn-v2.didongviet.vn/files/media/catalog/product/t/a/tai-nghe-true-wireless-soundpeats-mac-didongviet.jpg"}               
+                ],
+                "title" :"Tai nghe True Wireless Soundpeats",
+                "view" : "586",
+                "description" : "Tai nghe Soundpeats Mac có thiết kế nhỏ gọn sang trọng, phù hợp với đa số người dùng, driver 6mm mang lại chất lượng âm thanh tốt, cùng khả năng kết nối bluetooth 5.0 hoàn hảo. Tai nghe có thời gian nghe nhạc từ 9 tiếng - 60 tiếng"
+            },
+            {
+                "id" : "33",
+                "price" : "4890000",
+                "name" : "soundpeats",
+                "img" : "https://cdn-v2.didongviet.vn/files/media/catalog/product/t/a/tai-nghe-true-wireless-sony-wf-1000xm4-didongviet_1.jpg",
+                "img1": [
+                    {"image" : "https://cdn-v2.didongviet.vn/files/media/catalog/product/t/a/tai-nghe-true-wireless-sony-wf-1000xm4-didongviet_1.jpg"}        
+                ],
+                "title" :"Tai nghe True Wireless Sony WF-1000XM4",
+                "view" : "586",
+                "description" : "Tai nghe True Wireless Sony WF-1000XM4 là dòng tai nghe không dây chống ồn cao cấp chính hãng Sony. Với thiết kế sang trọng cùng nhiều công nghệ hiện đại, tiên tiến. Tai nghe mang đến cảm giác thoải mái khi sử dụng, âm thanh vượt trội và thời gian sử dụng liên tục đến 36 giờ."
+            },
+            {
+                "id" : "34",
+                "price" : "4590000",
+                "name" : "soundpeats",
+                "img" : "https://cdn-v2.didongviet.vn/files/media/catalog/product/a/p/apple-airpods-3-didongviet.png",
+                "img1": [
+                    {"image" : "https://cdn-v2.didongviet.vn/files/media/catalog/product/a/p/apple-airpods-3-didongviet.png"},
+                    {"image" : "https://cdn-v2.didongviet.vn/files/media/catalog/product/t/a/tai-nghe-airpods-3-didongviet.jpg"},
+                    {"image" : "https://cdn-v2.didongviet.vn/files/media/catalog/product/t/a/tai-nghe-airpods-3-mau-trang-didongviet.jpg"},
+                    {"image" : "https://cdn-v2.didongviet.vn/files/media/catalog/product/t/a/tai-nghe-khong-day-apple-airpods-3-pos-1-didongviet_1.jpg"}
+                    
+                ],
+                "title" :"Tai nghe Apple AirPods Pro 2021",
+                "view" : "586",
+                "description" : "Tai nghe Bluetooth Apple AirPods Pro 2021 Chính hãng Apple Việt Nam sở hữu thiết kế sang trọng, cao cấp với kiểu dáng vô cùng nhỏ gọn. Tai nghe có chất âm vô cùng sống động với chip xử lý âm thanh H1 cùng công nghệ Adaptive EQ, kết hợp với khả năng chống ồn chủ động cùng xuyên âm."
+            },
+            {
+                "id" : "35",
+                "price" : "790000",
+                "name" : "soundpeats",
+                "img" : "https://cdn-v2.didongviet.vn/files/media/catalog/product/t/a/tai-nghe-bluetooth-chup-tai-soul-ultra-wireless-dynamic.jpg",
+                "img1": [
+                    {"image" : "https://cdn-v2.didongviet.vn/files/media/catalog/product/t/a/tai-nghe-bluetooth-chup-tai-soul-ultra-wireless-dynamic.jpg"}              
+                ],
+                "title" :"Tai nghe Bluetooth chụp tai SOUL Ultra ",
+                "view" : "586",
+                "description" : "Tai nghe chụp tai Soul Ultra Wireless Dynamic là chiếc tai nghe có âm bass điện tử đầu tiên tại Việt Nam. Tai nghe đem đến chế độ âm thanh tốt cho người dùng, êm ái khi đeo luyện tập thể dục, thể thao."
+            }, 
+            {
+                "id" : "42",
+                "price" : "2290000",
+                "name" : "watch",
+                "img" : "https://cdn-v2.didongviet.vn/files/media/catalog/product/a/p/apple-pencil-1-didongviet_1.png",
+                "img1": [
+                    {"image" : "https://cdn-v2.didongviet.vn/files/media/catalog/product/a/p/apple-pencil-1-didongviet_1.png"}      
+                ],
+                "title" : "Bút cảm ứng Apple Pencil 1 Chính hãng",
+                "view" : "586",
+                "description" : "Bút cảm ứng Apple Pencil 1 Chính hãng chính thống giá RẺ HƠN CÁC LOẠI RẺ chỉ có tại Di Động Việt - Đại lý uỷ quyền chính thức của Apple tại Việt Nam. Với thiết kế nhỏ gọn, nhiều tính năng không độ chậm trễ, dễ phác họa với trang bị cảm ứng cực nhạy. Sạc pin nhanh chóng, dễ dàng với cổng sạc Lightning ở phần đuôi. Đặt ngay để có trải nghiệm mua sắm Hơn cả Chính Hãng."
+            },
+            {
+                "id" : "43",
+                "price" : "4590000",
+                "name" : "watch",
+                "img" : "https://cdn-v2.didongviet.vn/files/media/catalog/product/b/a/ban-phim-thumb.jpg",
+                "img1": [
+                    {"image" : "https://cdn-v2.didongviet.vn/files/media/catalog/product/b/a/ban-phim-thumb.jpg"}                
+                ],
+                "title" : "Bàn phím Apple Smart Keyborad Folio Ipad Pro",
+                "view" : "586",
+                "description" : "Bàn phím Apple Smart Keyboard Folio iPad Pro 11inch MXNK2ZA/A Chính hãng chính thống giá RẺ HƠN CÁC LOẠI RẺ chỉ có tại Di Động Việt - Đại lý uỷ quyền chính thức của Apple tại Việt Nam. Được thiết kế trình phím hợp lý, tối ưu hoá trải nghiệm gõ thoải mái nhất. Bàn phím có khả năng kết nối linh động, ổn định. Ngoài ra còn giúp bảo vệ an toàn chiếc iPad của bạn, đảm bảo chống trầy xước thiết bị. Đặt ngay để có trải nghiệm mua sắm Hơn cả Chính Hãng."
+            },
+            {
+                "id" : "44",
+                "price" : "1690000",
+                "name" : "watch",
+                "img" : "https://cdn-v2.didongviet.vn/files/media/catalog/product/c/h/chuot-khong-day-apple-magic-mouse-2-2021.jpg",
+                "img1": [
+                    {"image" : "https://cdn-v2.didongviet.vn/files/media/catalog/product/c/h/chuot-khong-day-apple-magic-mouse-2-2021.jpg"} 
+                ],
+                "title" : "Chuột không dây Apple Magic Mouse 2 2021",
+                "view" : "586",
+                "description" : "Chuột không dây Apple Magic Mouse 2 2021 MK2E3ZA/A Chính hãng chính thống giá RẺ HƠN CÁC LOẠI RẺ chỉ có tại Di Động Việt - Đại lý uỷ quyền chính thức của Apple tại Việt Nam. Chuột mang nhiều cải tiến hơn thế hệ trước giúp bạn có trải nghiệm di chuột thoải mái với tính năng Multi-Touch, kết nối Bluetooth 4.0 cho khả năng xử lý hiệu quả. Thời gian sử dụng lên đến 9 giờ. Đặt ngay để có trải nghiệm mua sắm Hơn cả Chính Hãng."
+            }
+        ],
+        "watch" : [
+            {
+                "id" : "36",
+                "price" : "8990000",
+                "name" : "watch",
+                "img" : "https://cdn-v2.didongviet.vn/files/media/catalog/product/a/p/apple-watch-series-8-45mm-gps-vien-nhom-day-cao-su-didongviet_1_1.jpg",
+                "img1": [
+                    {"image" : "https://cdn-v2.didongviet.vn/files/media/catalog/product/a/p/apple-watch-series-8-45mm-gps-vien-nhom-day-cao-su-didongviet_1_1.jpg"},
+                    {"image" : "https://cdn-v2.didongviet.vn/files/media/catalog/product/a/p/apple-watch-series-8-gps-vien-nhom-day-cao-su-mau-trang-1-didongviet_2.jpg"},
+                    {"image" : "https://cdn-v2.didongviet.vn/files/media/catalog/product/a/p/apple-watch-series-8-gps-vien-nhom-day-cao-su-mau-do-1-didongviet_1.jpg"},
+                    {"image" : "https://cdn-v2.didongviet.vn/files/media/catalog/product/a/p/apple-watch-series-8-gps-vien-nhom-day-cao-su-mau-bac-2-didongviet_2.jpg"}
+                    
+                ],
+                "title" : "Apple Watch Series 8 41mm (GPS) ",
+                "view" : "586",
+                "description" : "Apple Watch Series 8 41mm (GPS) Viền nhôm - Dây cao su | Chính Hãng VN/A sở hữu ngoại hình sang trọng, hiển thị nội dung bảo quát rõ ràng với màn hình lớn hơn, có kích thước là 41mm và 45mm, chạy trên nền hệ điều hành watchOS 9 cùng nhiều tính năng đo lường sức khoẻ mới như tính năng đo huyết áp, bơi lội, v.v"
+            },
+            {
+                "id" : "37",
+                "price" : "9900000",
+                "name" : "watch",
+                "img" : "https://cdn-v2.didongviet.vn/files/media/catalog/product/a/p/apple-watch-series-8-45mm-gps-vien-nhom-day-cao-su-didongviet_1.jpg",
+                "img1": [
+                    {"image" : "https://cdn-v2.didongviet.vn/files/media/catalog/product/a/p/apple-watch-series-8-45mm-gps-vien-nhom-day-cao-su-didongviet_1.jpg"},
+                    {"image" : "https://cdn-v2.didongviet.vn/files/media/catalog/product/a/p/apple-watch-series-8-gps-vien-nhom-day-cao-su-mau-do-1-didongviet.jpg"},
+                    {"image" : "https://cdn-v2.didongviet.vn/files/media/catalog/product/a/p/apple-watch-series-8-gps-vien-nhom-day-cao-su-mau-bac-2-didongviet_1.jpg"},
+                    {"image" : "https://cdn-v2.didongviet.vn/files/media/catalog/product/a/p/apple-watch-series-8-gps-vien-nhom-day-cao-su-mau-trang-1-didongviet_1.jpg"}
+                    
+                ],
+                "title" : "Apple Watch Series 8 45mm (GPS) ",
+                "view" : "586",
+                "description" : "Apple Watch Series 8 45mm (LTE) Viền nhôm - Dây cao su | Chính Hãng VN/A bán tại Di Động Việt - Đại lý uỷ quyền chính thức của Apple tại Việt Nam, là phiên bản quốc tế. Máy chưa Active + nguyên seal hộp, mới 100% (Fullbox).              Apple Watch Series 8 45mm (LTE) Viền nhôm - Dây cao su | Chính Hãng VN/A chính hãng được bảo hành 12 tháng tại Trung tâm Uỷ quyền cao cấp nhất của Apple tại Việt Nam và trên toàn cầu miễn phí. Đồng thời hưởng nhiều ưu đãi, khuyến mãi hấp dẫn tại Di Động Việt."
+            },
+            {
+                "id" : "38",
+                "price" : "18290000",
+                "name" : "watch",
+                "img" : "https://cdn-v2.didongviet.vn/files/products/2023/3/26/1/1682497662269_thumb_apple_watch_ultra_alpine_didongviet.jpg",
+                "img1": [
+                    {"image" : "https://cdn-v2.didongviet.vn/files/products/2023/3/26/1/1682497662269_thumb_apple_watch_ultra_alpine_didongviet.jpg"},
+                    {"image" : "https://cdn-v2.didongviet.vn/files/products/2023/3/26/1/1682497678291_apple_watch_ultra_alpine_cam_didongviet.jpg"},
+                    {"image" : "https://cdn-v2.didongviet.vn/files/products/2023/3/26/1/1682497688396_apple_watch_ultra_alpine_xanh_la_didongviet.jpg"}
+                ],
+                "title" : "Apple Watch Ultra 49mm (LTE) viền Titan ",
+                "view" : "586",
+                "description" : "Apple Watch Ultra 49mm (LTE) viền Titan - Dây Alpine Loop size nhỏ là một phiên bản đặc biệt, sở hữu thiết kế mới mẻ và độc đáo. Sở hữu màn hình rộng 1,92 inch - độ phân giải 502 x 410 pixel (338 ppi). Thời lượng pin lên đến 18 giờ ở chế độ thông minh và 36 giờ ở chế độ tiết kiệm pin. Được trang bị các tính năng theo dõi, bảo vệ sức khỏe cho người dùng."
+
+            },
+            {
+                "id" : "39",
+                "price" : "18290000",
+                "name" : "watch",
+                "img" : "https://cdn-v2.didongviet.vn/files/media/catalog/product/a/p/apple-watch-ultra-49mm-lte-edit-didongviet.jpg",
+                "img1": [
+                    {"image" : "https://cdn-v2.didongviet.vn/files/media/catalog/product/a/p/apple-watch-ultra-49mm-lte-edit-didongviet.jpg"},
+                    {"image" : "https://cdn-v2.didongviet.vn/files/media/catalog/product/a/p/apple-watch-ultra-49mm-lte-mau-vang-didongviet.jpg"},
+                    {"image" : "https://cdn-v2.didongviet.vn/files/media/catalog/product/a/p/apple-watch-ultra-49mm-lte-mau-trang-didongviet.jpg"}
+                ],
+                "title" : "Apple Watch Ultra 49mm (LTE) Viền Titan",
+                "view" : "586",
+                "description" : "Apple Watch Ultra LTE 49mm là một phiên bản đặc biệt, sở hữu thiết kế hoàn toàn mới mẻ và độc đáo. Chiếc smartwatch này sở hữu màn hình rộng 1,92 inch với độ phân giải 502 x 410 pixel (mật độ ~ 338 ppi). Thời lượng pin cho phép sử dụng lên đến 18 giờ sử dụng ở chế độ thông minh và 36 giờ ở chế độ tiết kiệm pin. Ngoài ra, nó còn được trang bị các tính năng theo dõi, bảo vệ sức khỏe cho người dùng."
+            }
+             
+        ]
+    }
+
+
+}
